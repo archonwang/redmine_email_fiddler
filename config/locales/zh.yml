@@ -1,0 +1,6 @@
+zh:
+  email_subjects: '电子邮件主题'
+  issue_add_subject: '新建问题的主题'
+  issue_edit_subject: '问题更新时的主题' 
+  settings_replace_fields_text: '在主题字段中，以下变量可替换：'
+
